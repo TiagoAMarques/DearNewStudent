@@ -1,3 +1,7 @@
+# This is currently work in progress. I advise you not to read it unless I told you to do so. It will be a waste of your time.
+
+# Introduction
+
 This repository contains information that might be useful for you as a new and or prospective student wanting to work with me.
 
 If you want to come and work with me, and after instructed to do so, you are expected to read this material. If you are working with me, I expect you know all the stuff that is in it.
