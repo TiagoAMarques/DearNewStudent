@@ -6,13 +6,15 @@ This repository contains information that might be useful for you as a new and o
 
 If you want to come and work with me, and after instructed to do so, you are expected to read this material. If you are working with me, I expect you know all the stuff that is in it.
 
-This is intended to provide guidance and structure to our interaction, hoping to make it clear what we should each expect from each other. That ensures that we can enroll in a trully sinergistic relation where we effectively and efficiency learn from each other.
+This is intended to provide guidance and structure to our interaction, hoping to make it clear what we should each expect from each other. That ensures that we can enroll in a truly synergistic relation where we effectively and efficiency learn from each other.
 
-I do not tolerate racism or any kind of discrimination based on whatever personal views you or others might have. If you are a racist please do not work with me.
+Because I work in English, in general I expect us to work in English, which is also a good training if you are hoping to develop a career in Academia. Unfortunately in Academia, in practice, we are forced to work in English. However, never forget, that comes at an extra cost, but it also comes with an advantage. If you can communicate in English, you already know two languages. Must English natives don't! So never feel inferior by not speaking or writing proper English. Chances are, you are much better on average at languages than whomever that criticizes you will be. 
+
+I believe in democracy and free will. I do not tolerate racism or any kind of discrimination based on whatever personal views you or others might have. If you are a racist please do not even apply to work with me.
 
 # Suggested readings
 
-I recommend the reading of "The Art of Being a Scientist"", by Roel Snieder and Ken Larner. I have a copy you can borrow. Just ask me for it!
+I recommend the reading of <a href="https://www.cambridge.org/core/books/art-of-being-a-scientist/103DD9A3EDBFA2870702E5F05ADC2F9E">The Art of Being a Scientist</a>, by Roel Snieder and Ken Larner. I have a copy you can borrow. Just ask me for it!
 
 # Suggested tools
 
@@ -35,4 +37,9 @@ If you want integration between JABREF and Overleaf you can take a look at
 
 # When you want feedback on code
 
-If you want me to provide feedback on code I xpect to receive a script that runs up to the point where it does not, if that is the case. Ideally I would receive a request to access a sahred folder where the code (and eventually all the required data / scripts) necessary to run the code at this end
+If you want me to provide feedback on code I expect to receive a script that runs up to the point where it does not, if that is the case. Ideally I would receive:
+
+* a request to access a shared folder (google drive, onedrive or dropbox) where the code (and eventually all the required data / scripts) necessary to run the code at this end will be;
+* fully commented code or best a dinamic report explaining the code and analysis up to the point where you need the feedback on.
+
+Do not include `View(data)` statements in dynamic reports!
