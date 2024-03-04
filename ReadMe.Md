@@ -46,7 +46,9 @@ Just before you embark or as you embark on a thesis, I recommend the reading of 
 
 A long marathon like a thesis might seem daunting at first. I have struggled with mental health issues several times in the past, and I have come to realize this is a recurrent issue in Academia. Therefore, I also recommend  you read this book: <a href="https://link.springer.com/book/10.1007/978-3-031-14194-2">Managing your Mental Health during your PhD: A Survival Guide</a>, by Zoë J. Ayres.
 
-Nonetheless, doing science, to which a thesis might be a first step, is also something that those of us who do it with passion, can be extremely rewarding. Therefore, I also recomend the reading of another book by Roel Snieder and Jen Schneider, <a href="https://inside.mines.edu/~rsnieder/Joy_of_Science.html">The Joy of Science</a>
+Nonetheless, doing science, to which a thesis might be a first step, is also something that for those of us who do it with passion, might be the one thing you must to do, because deep inside you feel there is nothing else you could do. In those cases, it can and it should be extremely rewarding. Therefore, I also recommend the reading of another book by Roel Snieder (and Jen Schneider), <a href="https://inside.mines.edu/~rsnieder/Joy_of_Science.html">The Joy of Science</a>. It shows you how you can do science and still find happiness, harmony and success. 
+
+Disclaimer: Finding happiness, harmony and success as a scientist is not easy. I can't claim to have found all of these yet, and that is why I believe all of the above books might help you.
 
 # Suggested tools
 
