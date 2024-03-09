@@ -26,6 +26,8 @@ Because I work in English, in general I expect us to work in English, which is a
 
 Once you become formally my student, I expect to have regular meetings with you, either weekly, every fifteen days or once a month, depending on the project and the requirements in terms of supervision. We will define a time slot and its periodicity at the start, and then we will adapt if needs be.
 
+After each meeting I expect you to send me (or the supervisors team) an email that describes the topics covered in the meeting and in particular it lists any resulting actions for yourself and for myself. That way, we always know what is expected from everyone at every point in time.
+
 ## Open channels
 
 I have had very few serious issues with students before, but whenever those issues occurred, they were induced by lack of communication. Therefore, if there is something that you are not happy with, I expect you to let me know as soon as possible. 
