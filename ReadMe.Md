@@ -24,9 +24,11 @@ Because I work in English, in general I expect us to work in English, which is a
 
 ## Regular meetings
 
-Once you become formally my student, I expect to have regular meetings with you, either weekly, every fifteen days or once a month, depending on the project and the requirements in terms of supervision. We will define a time slot and its periodicity at the start, and then we will adapt if needs be.
+Once you become formally my student, I expect to have regular meetings with you, either about weekly, every fifteen days or once a month, depending on the project and the requirements in terms of supervision. We will define a time slot and its periodicity at the start, and then we will adapt if needs be.
 
-After each meeting I expect you to send me (or the supervisors team) an email that describes the topics covered in the meeting and in particular it lists any resulting actions for yourself and for myself. That way, we always know what is expected from everyone at every point in time.
+After each meeting I expect you to send me (or the supervisors team) an email with the meeting minutes, describing in reasonable detail the topics covered in the meeting and in particular listing any resulting actions for yourself and for myself. That way, we always know what is expected from everyone at every point in time.
+
+The day before each meeting I expect an email that (1) lists the previous meeting action points and (2) ticks them off if you've completed them, or (3) lists why they were not dealt with as planned, and (4) establishes an agenda for the upcoming meeting. If there were action items that were assigned to me I will reply listing how I dealt with them.
 
 ## Open channels
 
@@ -34,7 +36,7 @@ I have had very few serious issues with students before, but whenever those issu
 
 There is nothing you can say to me that will upset me more than something along the lines of  "I have had these feelings for a long time but never told you". 
 
-If you talk to me about it early enough we can solve any problem together.
+If you talk to me about it early enough we can solve any problem together. If you come to me at a later stage, asking for a diagnostic, like Fisher once consulted after the data was collected, I might not be able to offer more than a death certificate.
 
 # Suggested readings
 
@@ -46,11 +48,11 @@ Therefore, you should consider before you start whether you are ready, whether y
 
 Just before you embark or as you embark on a thesis, I recommend the reading of <a href="https://www.cambridge.org/core/books/art-of-being-a-scientist/103DD9A3EDBFA2870702E5F05ADC2F9E">The Art of Being a Scientist</a>, by Roel Snieder and Ken Larner. I have a copy you can borrow. Just ask me for it!
 
-A long marathon like a thesis might seem daunting at first. I have struggled with mental health issues several times in the past, and I have come to realize this is a recurrent issue in Academia. Therefore, I also recommend  you read this book: <a href="https://link.springer.com/book/10.1007/978-3-031-14194-2">Managing your Mental Health during your PhD: A Survival Guide</a>, by Zoë J. Ayres.
+A long marathon like a thesis might seem daunting at first. I have struggled with mental health issues several times in the past, and I have come to realize this is a recurrent issue in Academia. Therefore, I also recommend  you read this book: <a href="https://link.springer.com/book/10.1007/978-3-031-14194-2">Managing your Mental Health during your PhD: A Survival Guide</a>, by Zoë J. Ayres. I also have a copy you can borrow.
 
-Nonetheless, doing science, to which a thesis might be a first step, is also something that for those of us who do it with passion, might be the one thing you must to do, because deep inside you feel there is nothing else you could do. In those cases, it can and it should be extremely rewarding. Therefore, I also recommend the reading of another book by Roel Snieder (and Jen Schneider), <a href="https://inside.mines.edu/~rsnieder/Joy_of_Science.html">The Joy of Science</a>. It shows you how you can do science and still find happiness, harmony and success. 
+Nonetheless, doing science, to which a thesis might be a first step, is also something that for those of us who do it with passion, might be the one thing you must to do, because deep inside you feel there is nothing else you could do. In those cases, it can and it should be extremely rewarding. Therefore, I also recommend the reading of another book by Roel Snieder (and Jen Schneider), <a href="https://inside.mines.edu/~rsnieder/Joy_of_Science.html">The Joy of Science</a>. It shows you how you can do science and still find happiness, harmony and success. Again, ask me for a copy if you want to read it.
 
-Disclaimer: Finding happiness, harmony and success as a scientist is not easy. I can't claim to have found all of these yet, and that is why I believe all of the above books might help you.
+Disclaimer: Finding happiness, harmony and success as a scientist is not easy. I can't claim to have found all of these yet, and that is also why I believe all of the above books might help you.
 
 # Suggested tools
 
@@ -58,7 +60,7 @@ I would recommend your thesis to be written in Latex. If you do not know what La
 
 Some possible exceptions apart, and ask me if you are an exception when in doubt, I expect you to be working from the start using R and doing reproducible research via dynamic reports in either RMarkdown or Quarto. If you do not know what these are ask me about it, but that might mean you are at a disadvantage and need to catch up on working with these.
 
-if you need a refreshing on R you can try this tutorial
+If you need a refreshing on R you can try this tutorial
 
 https://github.com/TiagoAMarques/AnIntro2RTutorial
 
@@ -68,7 +70,7 @@ https://github.com/TiagoAMarques/RMarkdownTemplate
 
 If you do not have a reference manager, I highly recommend <a href="https://www.jabref.org/">JABREF</a> as it is free and deals with bibtex natively, and does much of what one might want to do managing references.
 
-If you want integration between JABREF and Overleaf you can take a look at <a href="https://www.overleaf.com/blog/citedrive-easy-reference-management-for-overleaf">CiteDrive</a>, which can make it quite conveniet, but that is a non-fundamental beautification of the process that you might prefer to ignore!
+If you want integration between JABREF and Overleaf you can take a look at <a href="https://www.overleaf.com/blog/citedrive-easy-reference-management-for-overleaf">CiteDrive</a>, which can make it quite convenient, but that is a non-fundamental beautification of the process that you might prefer to ignore!
 
 # Group meetings
 
@@ -78,7 +80,7 @@ I expect all my students to actively participate on a group meeting once a week,
 
 * a dry run on a presentation one of the students might need to do later
 
-* a guest lecture/presentation/discussion by someone we invite do come and talk to us
+* a guest lecture/presentation/discussion by someone we invite to come and talk to us
 
 * discussing about some new analysis method or tool 
 
@@ -94,7 +96,7 @@ In general you might want feedback on material of yours. When you do so, it migh
 
 1. you tell me in advance when you might be sending me stuff for feedback to be provided, so I can allocate time to it
 
-2. it will in general be useful if you tell me when you need the feedback by, so that I can put the task into my "To do" pipelione with a date attached to it. Tasks without dates tend to be relegated to be done when I have all the tasks with dates done, which might be.... never.
+2. it will in general be useful if you tell me when you need the feedback by, so that I can put the task into my "To do" pipeline with a date attached to it. Tasks without dates tend to be relegated to be done when I have all the tasks with dates done, which might be.... never.
 
 ## When you want feedback on computer code
 
@@ -109,4 +111,4 @@ Please do not include `View(data)` statements in dynamic reports!
 
 ## When you want feedback on written material
 
-I would like to receive either a shared overleaf project to comment on or a word file that I can use track changes over. 
+I would like to receive either a shared overleaf project to comment on or a word file that I can use track changes over.
