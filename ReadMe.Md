@@ -4,17 +4,17 @@
 
 This repository contains information that might be useful for you as a new and or prospective student wanting to work with me.
 
-If you want to come and work with me, after instructed to do so, you are expected to read this material. If you are working with me, I expect you know all the stuff that is in it.
-
 This is intended to provide guidance and structure to our interaction, hoping to make it clear what we should each expect from each other. That ensures that we can enroll in a truly synergistic relation where we effectively and efficiency learn from each other.
 
-I believe in democracy and free will. I do not tolerate racism or any kind of discrimination based on whatever personal views you or others might have. If you are a racist please do not even apply to work with me. We aim to be a diverse and inclusive group.
+I believe in democracy and free will. I do not tolerate racism or any kind of discrimination based on whatever moronic personal views you or others might have. If you are a racist please do not even apply to work with me. We aim to be a diverse and inclusive group.
+
+If you want to come and work with me, after instructed to do so, you are expected to read this material. If you are working with me, I expect you know all the stuff that is in it.
 
 # Talk with my previous students
 
-I am absolutely convinced a good supervisor can be more important than good topic for a thesis. The best topic could be become boring or even challenging with a bad supervisor. But a good supervisor could make almost any topic interesting and worthwhile. Further, a good supervisor to me might not be a good supervisor to you, and vice-versa. As in any relation, it is the interaction that is important. Regardless, I would say that talking to you future supervisor current and former students could be helpful in letting you know if you think he might be the right supervisor to you.
+I am absolutely convinced a good supervisor can be more important than a good topic for a thesis. The best topic could be become boring or even challenging with a bad supervisor. But a good supervisor could make almost any topic interesting and worthwhile. Further, a good supervisor to me might not be a good supervisor to you, and vice-versa. As in any relation, it is the interaction that is important. Regardless, I would say that talking to you future supervisor current and former students could be helpful in letting you know if you think he might be the right supervisor to you.
 
-Therefore, please reach out to my former and or current students for advice. I do not see that as talking in my back, I see that as a smart way for you to collect information that could save us both a considerable amount of time in the future.
+Therefore, please reach out to my former and or current students for advice. I do not see that as talking in my back, I see that as a smart way for you to collect information that could save us both a considerable amount of time in the future ;)
 
 # Comunication is important
 
